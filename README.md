@@ -1,4 +1,6 @@
 Spawn-and-Destroy
 =================
 
-A shooting game
+A shooting game that will be made by
+
+ARROW inc. and Gage Films
