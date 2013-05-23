@@ -1,4 +1,4 @@
-var enemy = ['', 'Wizard', 'Zombie','Ghost','Elemental Monster','500 ft Golem'];
+var enemy = ['Creeper', 'Wizard', 'Zombie','Ghost','Elemental Monster','500 ft Golem'];
 var enemy = enemy[Math.floor(Math.random()*enemy.length)];
 alert('Your enemy is a ' + enemy);
 var enemyhealth = Math.floor(Math.random ()*12*1*67*2233);
