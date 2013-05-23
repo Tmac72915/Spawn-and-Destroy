@@ -1,15 +1,4 @@
-var enemy = ['Creeper', 'Wizard', 'Zombie','Ghost','Elemental Monster','500 ft Golem'];
-var enemy = enemy[Math.floor(Math.random()*enemy.length)];
-alert('Your enemy is a ' + enemy);
-var enemyhealth = Math.floor(Math.random ()*12*1*67*2233);
-alert('The ' +enemy+  "'s health is "+enemyhealth)
-{if (enemyhealth < 9) {}
-var damage = Math.floor(Math.random ()*20+1*65646456);
-alert("This enemy is not weak.")
-var weapon = prompt("What weapon will you use")
-alert("Your "+weapon+" does "+damage+" damage." +win)
-alert("It doesn't matter whether you lived died.Now you have to fight the Boss. You have to fight with your fists.")
-var win = ['You are lucky.You Win!', 'You are not lucky.You Die.', ' Neither of you are lucky.You both Die.',];
-var win = win[Math.floor(Math.random()*win.length)];
-alert("" +win)
+var player = ['Private', 'General', 'FOX','Ghost','Elemental Monster','PrOtEcTiOn 1'];
+var player = player[Math.floor(Math.random()*player.length)];
+alert('Your player is  ' + player')
 }
